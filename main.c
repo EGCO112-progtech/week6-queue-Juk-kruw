@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include "Node.h"
-
 #include "Queue.h"
 
 int main(int argc, char **argv)

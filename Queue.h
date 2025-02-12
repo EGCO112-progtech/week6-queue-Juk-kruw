@@ -46,6 +46,6 @@ int dequeue_struct(Queue *q)
     return value;
   }
   else
-    printf("Empty queue \n");
+    printf("Empty queue\n");
   return 0;
 }
